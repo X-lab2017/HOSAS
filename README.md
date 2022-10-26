@@ -1,4 +1,4 @@
-# HOSAS
+# How Open Source Ate Software《拥抱开源（第2版）》
 《拥抱开源》共读社区~
 
 ![image](https://user-images.githubusercontent.com/15010826/197932169-d9e31d01-91cb-4eb2-aa4f-5e4c880446c6.png)
